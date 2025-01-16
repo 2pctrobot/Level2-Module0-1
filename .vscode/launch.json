@@ -3,6 +3,20 @@
     "configurations": [
         {
             "type": "java",
+            "name": "_03_VisualArraySorter",
+            "request": "launch",
+            "mainClass": "extra._03_VisualArraySorter",
+            "projectName": "Level2-Module0_4f49c807"
+        },
+        {
+            "type": "java",
+            "name": "_01_RobotRace",
+            "request": "launch",
+            "mainClass": "arrays._01_RobotRace",
+            "projectName": "Level2-Module0_4f49c807"
+        },
+        {
+            "type": "java",
             "name": "MIDIKeyboard",
             "request": "launch",
             "mainClass": "extra.MIDIKeyboard"

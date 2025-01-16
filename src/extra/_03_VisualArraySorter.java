@@ -6,8 +6,8 @@ import processing.core.PApplet;
  * Goal: Create a program that sorts each rectangle by height!
  * 
  * 1. Create an array of ints. Do not initialize it.
- *
- *In the settings() method:
+ * 
+ * In the settings() method:
  * 2. Set the size of your window to at least 500 width 500 height
  * 
  * In the setup() method:
@@ -39,11 +39,11 @@ import processing.core.PApplet;
  */
 public class _03_VisualArraySorter extends PApplet {
     static final int WIDTH = 600;
-    static final int HEIGHT = 400;
-
+    static final int HEIGHT = 600;
+    int[] manyints;
     @Override
     public void settings() {
-        
+      
     }
 
     @Override
